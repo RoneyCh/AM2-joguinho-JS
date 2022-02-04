@@ -1,15 +1,1 @@
-canvas {
-    border: 1px solid #756d6d;
-    background-color: #1ca05e;
-}
-.flex {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-right: 500px;
-    border-radius: 2;
-    border: rgb(172, 160, 160);
-    border-width: 1;
-    border-style: solid;
-}
+canvas{border:1px solid #756d6d;background-color:#1ca05e}.flex{display:flex;flex-direction:column;justify-content:center;align-items:center;margin-right:500px;border-radius:2;border:#aca0a0;border-width:1px;border-style:solid}
