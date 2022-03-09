@@ -1,4 +1,4 @@
 # game-AM2-JS
-Jogo utilzando HTML CSS E JAVASCRIPT
-# RODAR PROJETO
+Game created using HTML, CSS and JAVASCRIPT
+# Run the game
 https://joguinho-am2.netlify.app/
