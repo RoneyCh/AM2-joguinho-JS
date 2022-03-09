@@ -1,5 +1,4 @@
 # game-AM2-JS
-Jogo em HTML CSS E JAVASCRIPT estilo flappy bird
-
+Jogo utilzando HTML CSS E JAVASCRIPT
 # RODAR PROJETO
 https://joguinho-am2.netlify.app/
